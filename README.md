@@ -30,3 +30,14 @@ Example 5:
 
 Input: nums1 = [2], nums2 = []
 Output: 2.00000
+
+
+
+Constraints:
+
+nums1,length == m
+nums2,length == n
+0 <= m <= 1000
+0 <= n <= 1000
+1 <= m + n <= 2000
+
